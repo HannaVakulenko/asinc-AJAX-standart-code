@@ -1,0 +1,1 @@
+# asinc-AJAX-standart-code
